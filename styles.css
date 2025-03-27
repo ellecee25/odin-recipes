@@ -1,5 +1,14 @@
 /*style sheet for recipe webpage*/
 body {
     font-family: Arial, Verdana, sans-serif;
+    
+    background-color: aliceblue;
 }
 
+div.top {
+    text-align: center;
+}
+
+h1, h3 {
+    text-align: center;
+}
