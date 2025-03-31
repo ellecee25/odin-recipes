@@ -9,6 +9,17 @@ div.top {
     text-align: center;
 }
 
+.recipes {
+    display: flex;
+    list-style: none;
+    border: 1px solid black;
+    padding: 5px auto;
+}
+
+li {
+    margin: 5px;
+}
+
 h1, h3 {
     text-align: center;
 }
